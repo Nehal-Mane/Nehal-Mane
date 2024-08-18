@@ -11,7 +11,7 @@
 
 <br>
 <br>
-<h3 align="left">Badges:</h3>
+<h3 align="left">AWS Badges:</h3>
 
 <img align="left" alt="coding" width="100" src="Badges/aws-cloud-quest-cloud-practitioner.png">
 <img align="left" alt="coding" width="100" src="Badges/image (3).png">
