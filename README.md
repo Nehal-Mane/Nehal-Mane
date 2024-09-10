@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehal-mane&show_icons=true&locale=en" alt="nehal-mane" /></p>
 <h3 align="left">Certification:</h3>
-<img align="left" alt="coding" width="320" height="200" src="Badges/NEHAL-Class-Certificate.png">
+<P><img align="left" alt="coding" width="320" height="200" src="Badges/NEHAL-Class-Certificate.png"></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal-mane&" alt="nehal-mane" /></p>
 
