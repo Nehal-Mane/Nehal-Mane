@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehal-mane&show_icons=true&locale=en" alt="nehal-mane" /></p>
 <h3 align="left">Certification:</h3>
-<P><img align="left" alt="coding" width="320" height="200" src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d564d28-cbae-4bb5-ac13-a4b411953627.jpg"></p>
+<P><img align="left" alt="coding" width="290" height="200" src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d564d28-cbae-4bb5-ac13-a4b411953627.jpg"></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal-mane&" alt="nehal-mane" /></p>
 
