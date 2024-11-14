@@ -13,13 +13,13 @@
 <br>
 <h3 align="left">AWS Badges:</h3>
 
-<img align="left" alt="coding" width="98" src="Badges/aws-cloud-quest-cloud-practitioner.png">
-<img align="left" alt="coding" width="98" src="Badges/image (3).png">
-<img align="left" alt="coding" width="98" src="Badges/image (5).png">
-<img align="left" alt="coding" width="98" src="Badges/image.png"> 
-<img align="left" alt="coding" width="98" src="Badges/image (1).png">
-<img align="left" alt="coding" width="98" src="Badges/image (2).png">
-<img align="left" alt="coding" width="98" src="Badges/image (4).png">
+<img align="left" alt="coding" width="96" src="Badges/aws-cloud-quest-cloud-practitioner.png">
+<img align="left" alt="coding" width="96" src="Badges/image (3).png">
+<img align="left" alt="coding" width="96" src="Badges/image (5).png">
+<img align="left" alt="coding" width="96" src="Badges/image.png"> 
+<img align="left" alt="coding" width="96" src="Badges/image (1).png">
+<img align="left" alt="coding" width="96" src="Badges/image (2).png">
+<img align="left" alt="coding" width="96" src="Badges/image (4).png">
 <p align="left">
 </p>
 <br>
