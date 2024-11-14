@@ -33,9 +33,9 @@
 
 <p><img align="left" alt="coding" width="300" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehal-mane&show_icons=true&locale=en&layout=compact" alt="nehal-mane" /></p>
 
-<p>&nbsp;<img align="left" alt="coding" width="450" height="190" src="https://github-readme-stats.vercel.app/api?username=nehal-mane&show_icons=true&locale=en" alt="nehal-mane" /></p>
+<p>&nbsp;<img align="centre" alt="coding" width="450" height="190" src="https://github-readme-stats.vercel.app/api?username=nehal-mane&show_icons=true&locale=en" alt="nehal-mane" /></p>
 <h3 align="left">Certification:</h3>
-<P><img align="left" alt="coding" width="300" height="180" src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d564d28-cbae-4bb5-ac13-a4b411953627.jpg"></p>
+<P><img align="centre" alt="coding" width="300" height="180" src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d564d28-cbae-4bb5-ac13-a4b411953627.jpg"></p>
 
 <p>&nbsp;<img align="left" alt="coding" width="440" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal-mane&" alt="nehal-mane" /></p>
 
