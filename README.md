@@ -13,13 +13,13 @@
 <br>
 <h3 align="left">AWS Badges:</h3>
 
-<img align="left" alt="coding" width="103" src="Badges/aws-cloud-quest-cloud-practitioner.png">
-<img align="left" alt="coding" width="103" src="Badges/image (3).png">
-<img align="left" alt="coding" width="103" src="Badges/image (5).png">
-<img align="left" alt="coding" width="103" src="Badges/image.png"> 
-<img align="left" alt="coding" width="103" src="Badges/image (1).png">
-<img align="left" alt="coding" width="103" src="Badges/image (2).png">
-<img align="left" alt="coding" width="103" src="Badges/image (4).png">
+<img align="left" alt="coding" width="101" src="Badges/aws-cloud-quest-cloud-practitioner.png">
+<img align="left" alt="coding" width="101" src="Badges/image (3).png">
+<img align="left" alt="coding" width="101" src="Badges/image (5).png">
+<img align="left" alt="coding" width="101" src="Badges/image.png"> 
+<img align="left" alt="coding" width="101" src="Badges/image (1).png">
+<img align="left" alt="coding" width="101" src="Badges/image (2).png">
+<img align="left" alt="coding" width="101" src="Badges/image (4).png">
 <p align="left">
 </p>
 <br>
@@ -37,5 +37,5 @@
 <h3 align="left">Certification:</h3>
 <P><img align="left" alt="coding" width="300" height="180" src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d564d28-cbae-4bb5-ac13-a4b411953627.jpg"></p>
 
-<p>&nbsp;<img align="left" alt="coding" width="400" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal-mane&" alt="nehal-mane" /></p>
+<p>&nbsp;<img align="left" alt="coding" width="420" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal-mane&" alt="nehal-mane" /></p>
 
